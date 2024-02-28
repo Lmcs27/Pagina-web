@@ -1,0 +1,27 @@
+h1{
+    color: aquamarine;
+}
+h2{
+    color: darksalmon;
+}
+p{
+    color: lightseagreen;
+}
+h3{
+    color: blue;
+}
+h4{
+    color: darkred;
+}
+#encabezado-seis{
+    color: black;
+}
+.text-danger{
+    color: gold;
+}
+.text-green{
+    color: darkorange;
+}
+body{
+    background-color: cornflowerblue;
+}
